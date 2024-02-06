@@ -1,5 +1,5 @@
-# cs-study
-![cplusplus](https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=#00599C)
+# cs-study ![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white)
+
 
 - 백준, 프로그래머스 알고리즘
 
