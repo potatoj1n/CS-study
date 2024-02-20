@@ -1,4 +1,5 @@
 # [level 2] 가장 큰 수 - 42746 
+프로그래머스 가장 큰 수 문제를 c++의 sort, bubble sort, merge sort를 사용한 3가지 구현 방법으로 풀이
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746) 
 
