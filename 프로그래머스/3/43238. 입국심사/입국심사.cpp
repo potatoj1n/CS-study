@@ -26,7 +26,6 @@ long long solution(int n, vector<int> times) {
             answer = mid;
             max = mid-1;
         }
-    }
-    
+    }    
     return answer;
 }
